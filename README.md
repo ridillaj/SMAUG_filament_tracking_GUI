@@ -68,6 +68,8 @@ Citations
 	1.	Xu, T., Langouras, C., Koudehi, M.A. et al. Automated Tracking of Biopolymer Growth and Network Deformation with TSOAX. Sci Rep 9, 1717 (2019). https://doi.org/10.1038/s41598-018-37182-6 
 
 
+Example files for using TSOAX or the SMAUG GUI are available at: https://zenodo.org/records/23224944, with a separate README file describing the reactions and appropriate comparisons. The associated Table_S1_Settings_20261019 contains specific parameters optimized for each kind of TIRF reaction to facilitate segmentation and tracking.
+
 License
 
 
